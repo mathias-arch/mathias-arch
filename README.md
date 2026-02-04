@@ -1,3 +1,4 @@
+
 # Ivan Mathias Loor Weir 👋
 ## AWS Certified Cloud Practitioner | Infrastructure as Code (IaC) | IT Consultant
 
@@ -6,58 +7,44 @@ Profesional enfocado en la automatización de arquitecturas en la nube y la impl
 ---
 
 ### 🎓 Certificaciones & Logros
-- ☁️ **AWS Certified Cloud Practitioner** (Ene 2026)
-- 🏆 **TFG sobre Kubernetes (Nota: 9.8/10)**
-- 🇬🇧 **First Certificate in English (B2)**
+* **AWS Certified Cloud Practitioner** (Ene 2026)
+* **TFG sobre Kubernetes (Nota: 9.8/10):** Excelencia en diseño de soluciones orquestadas.
+* **First Certificate in English (B2):** Competencia profesional internacional.
 
 ---
 
-### 📊 Estadísticas de GitHub
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mathias-arch&show_icons=true&theme=tokyonight" alt="Stats de Ivan" width="400">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathias-arch&layout=compact&theme=tokyonight" alt="Lenguajes" width="300">
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mathias-arch&theme=tokyonight" alt="Racha" width="710">
-</p>
+### 🚀 Infraestructura Automatizada (Proyectos)
+#### [AWS Portfolio Automation with Terraform](https://github.com/mathias-arch/aws-portfolio-project)
+* **Remote Backend & State:** Uso de **S3** para persistencia del estado y seguridad.
+* **Ciclo CI/CD:** Automatización con **GitHub Actions** (`apply` / `destroy`).
+* **Seguridad:** Gestión de secretos y **IAM Roles**.
 
 ---
 
-### 🚀 Proyectos Destacados
-- **[AWS Portfolio con Terraform](https://github.com/mathias-arch/aws-portfolio-project):** Infraestructura automatizada con S3 Backend y GitHub Actions.
+### 📊 Github Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathias-arch&layout=compact&theme=tokyonight" alt="Most Used Languages" width="350" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mathias-arch&show_icons=true&theme=tokyonight&count_private=true" alt="Github Stats" width="400" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathias-arch&theme=tokyonight" alt="Current Streak" width="100%" />
+</p>
 
 ---
 
 ### 🛠️ Core Stack
-- **Cloud:** AWS (EC2, S3, RDS, CloudWatch, IAM).
-- **IaC:** Terraform, Docker, Kubernetes, GitHub Actions.
+* **Public Cloud:** AWS (EC2, S3, RDS, CloudWatch, VPC, IAM).
+* **IaC & Automation:** Terraform (HCL), GitHub Actions, Docker, Kubernetes.
+* **Sistemas:** Administración avanzada de Linux y Scripting.
 
 ---
 
-### 🔗 LinkedIn
-[Conecta conmigo aquí](https://www.linkedin.com/in/ivan-mathias-loor-weir/)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### 🔗 Perfil Profesional
+[Conecta conmigo en LinkedIn](https://www.linkedin.com/in/ivan-mathias-loor-weir/)
 
 
 
