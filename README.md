@@ -1,3 +1,82 @@
+# Ivan Mathias Loor Weir 👋
+## AWS Certified Cloud Practitioner | Infrastructure as Code (IaC) | IT Consultant
+
+Profesional enfocado en la automatización de arquitecturas en la nube y la implementación de soluciones escalables. Mi objetivo es optimizar el despliegue de infraestructuras críticas mediante **DevOps** y las mejores prácticas de **AWS**.
+
+---
+
+### 🎓 Certificaciones & Logros
+- ☁️ **AWS Certified Cloud Practitioner** (Ene 2026)
+- 🏆 **TFG sobre Kubernetes (Nota: 9.8/10)**
+- 🇬🇧 **First Certificate in English (B2)**
+
+---
+
+### 📊 Estadísticas de GitHub
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mathias-arch&show_icons=true&theme=tokyonight" alt="Stats de Ivan" width="400">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathias-arch&layout=compact&theme=tokyonight" alt="Lenguajes" width="300">
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mathias-arch&theme=tokyonight" alt="Racha" width="710">
+</p>
+
+---
+
+### 🚀 Proyectos Destacados
+- **[AWS Portfolio con Terraform](https://github.com/mathias-arch/aws-portfolio-project):** Infraestructura automatizada con S3 Backend y GitHub Actions.
+
+---
+
+### 🛠️ Core Stack
+- **Cloud:** AWS (EC2, S3, RDS, CloudWatch, IAM).
+- **IaC:** Terraform, Docker, Kubernetes, GitHub Actions.
+
+---
+
+### 🔗 LinkedIn
+[Conecta conmigo aquí](https://www.linkedin.com/in/ivan-mathias-loor-weir/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## AWS Certified Cloud Practitioner | Infrastructure as Code (IaC) | IT Consultant  | Network & Systems Administrator
 
 
