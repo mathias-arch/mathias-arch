@@ -21,17 +21,16 @@ Profesional enfocado en la automatización de arquitecturas en la nube y la impl
 
 ---
 
-### 📊 Github Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathias-arch&layout=compact&theme=tokyonight" alt="Most Used Languages" width="350" />
+### 📊 Estadísticas de GitHub
+Aquí puedes ver mi actividad y constancia en el código:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mathias-arch&show_icons=true&theme=tokyonight" alt="Stats de Ivan" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathias-arch&layout=compact&theme=tokyonight" alt="Lenguajes" width="48%" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mathias-arch&show_icons=true&theme=tokyonight&count_private=true" alt="Github Stats" width="400" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathias-arch&theme=tokyonight" alt="Current Streak" width="100%" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathias-arch&theme=tokyonight" alt="Racha de Mathias" width="100%" />
 </p>
 
 ---
