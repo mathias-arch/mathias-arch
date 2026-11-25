@@ -87,15 +87,21 @@ pública, privada y de datos, con despliegue mediante Terraform.
 
 ---
 
-### 03 · Infraestructura sobre Kubernetes
+### 03 · Proyecto Final de ASIR — Infraestructura sobre Kubernetes
 
-Proyecto académico centrado en el diseño de una solución
-orquestada y automatizada con Kubernetes.
+> Proyecto de Fin de Grado del Grado Superior en Administración
+> de Sistemas Informáticos en Red (ASIR).
+>
+> Calificación: 9,8 / 10.
 
-Calificación: 9,8 / 10.
+Diseño e implementación de una infraestructura para el despliegue
+de microservicios en Kubernetes con Minikube, automatizada
+mediante Terraform.
 
-Una base práctica para profundizar en contenedores, orquestación
-y despliegue de aplicaciones.
+- Infraestructura como código para definir y desplegar el entorno.
+- Gestión del clúster y orquestación de contenedores.
+- Aplicación práctica de conocimientos de sistemas,
+  redes y automatización adquiridos durante el ciclo.
 
 [Explorar código y documentación →](https://github.com/mathias-arch/Proyecto-Final)
 
