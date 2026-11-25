@@ -1,33 +1,20 @@
-<div align="center">
+## Sobre mí
 
-# Iván Mathias Loor Weir
+Soy consultor IT con experiencia en soporte, sistemas y redes.
+Oriento mi desarrollo profesional hacia la infraestructura cloud
+y la automatización, combinando formación certificada con
+proyectos prácticos.
 
-### Cloud & DevOps | IT Infrastructure Consultant
-#### AWS ×2 · Azure · GitHub Actions Certified | IaC & CI/CD
+En este portfolio encontrarás infraestructura en AWS con Terraform,
+pipelines de CI/CD con GitHub Actions y mi proyecto final de
+ASIR sobre Kubernetes, calificado con un 9,8 / 10.
 
-Madrid, España
-
-Infraestructura como código · Automatización · Cloud
+Mi enfoque: entender lo que despliego, automatizar lo repetible
+y documentar las decisiones técnicas.
 
 [Explorar proyectos](https://github.com/mathias-arch?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/ivan-mathias-loor/)
 
-</div>
-
 ---
-
-## Sobre mí
-
-Soy consultor IT con experiencia en soporte, sistemas y redes,
-orientado al desarrollo de mi carrera en infraestructura cloud
-y automatización.
-
-Construyo proyectos con AWS, Terraform y GitHub Actions para llevar
-los conocimientos a la práctica: definir infraestructura como código,
-automatizar su despliegue y documentar las decisiones técnicas.
-
-Me interesa especialmente conectar la infraestructura con la
-automatización, manteniendo el foco en la seguridad, la claridad
-y la reproducibilidad.
 
 ## Certificaciones
 
@@ -126,12 +113,3 @@ Actualmente sigo profundizando en:
 ---
 
 <div align="center">
-
-### De la infraestructura manual a la automatización
-
-Este portfolio reúne lo que construyo, cómo lo implemento
-y lo que aprendo durante el proceso.
-
-[Ver todos los repositorios](https://github.com/mathias-arch?tab=repositories)
-
-</div>
