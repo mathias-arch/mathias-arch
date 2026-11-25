@@ -97,6 +97,8 @@ Calificación: 9,8 / 10.
 Una base práctica para profundizar en contenedores, orquestación
 y despliegue de aplicaciones.
 
+[Explorar código y documentación →](https://github.com/mathias-arch/Proyecto-Final)
+
 ---
 
 ## Desarrollo técnico
